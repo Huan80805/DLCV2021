@@ -1,0 +1,1 @@
+python3 part3/inference.py --img_dir $1 --target $2 --output_path $3 

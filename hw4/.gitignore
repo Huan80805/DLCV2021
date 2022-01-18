@@ -1,0 +1,10 @@
+hw4_data/
+*.zip
+p1/ckpt/
+p2/ckpt/
+p1/wandb/
+p2/wandb/
+p1/__pycache__/
+p2/__pycache__/
+p1/*.sh
+p2/*.sh
